@@ -17,3 +17,4 @@ The second route handler for /foo that returns the response: "and sometimes that
 
 Thus, when you visit Localhost:3000/foo on web browser, you will see either of those page.
 Screenshot sometimes.png
+Screenshot ST_that.png
